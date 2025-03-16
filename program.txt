@@ -1,7 +1,10 @@
 class program{
 
 
+static main(){
 
+
+}
 
 
 }
