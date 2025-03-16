@@ -1,4 +1,10 @@
+
 Void ebru
+
+void Call()
+void class
+void Test();
+
 class program{
 
 
@@ -10,5 +16,5 @@ static main(){
 
 }
 
-
+cihan
 }
