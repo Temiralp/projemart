@@ -1,4 +1,4 @@
-void Test();
+void Call()
 class program{
 
 
