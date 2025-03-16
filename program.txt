@@ -1,4 +1,7 @@
 void Call()
+void class
+void Test();
+
 class program{
 
 
